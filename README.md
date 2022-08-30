@@ -1,3 +1,3 @@
 # PokerCPP
 ## Documentation here
-https://maskedpaladin.github.io/PokerCPP/html/index.html
+https://maskedpaladin.github.io/PokerCPP/html
