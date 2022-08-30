@@ -1,0 +1,30 @@
+\hypertarget{Entities_8hpp}{}\doxysection{include/\+Entities.hpp File Reference}
+\label{Entities_8hpp}\index{include/Entities.hpp@{include/Entities.hpp}}
+
+
+Player class.  
+
+
+{\ttfamily \#include $<$string$>$}\newline
+{\ttfamily \#include $<$vector$>$}\newline
+{\ttfamily \#include \char`\"{}Game\+Objects.\+hpp\char`\"{}}\newline
+Include dependency graph for Entities.\+hpp\+:
+% FIG 0
+This graph shows which files directly or indirectly include this file\+:
+% FIG 1
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{classEntities_1_1Player}{Entities\+::\+Player}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Player class. 
+
+\begin{DoxyAuthor}{Author}
+Carlos Jiménez Encinas 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+30/08/2022 
+\end{DoxyDate}
