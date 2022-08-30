@@ -1,0 +1,32 @@
+\hypertarget{card_8hpp}{}\doxysection{include/card.hpp File Reference}
+\label{card_8hpp}\index{include/card.hpp@{include/card.hpp}}
+
+
+\mbox{\hyperlink{classCard}{Card}} class.  
+
+
+{\ttfamily \#include $<$string$>$}\newline
+{\ttfamily \#include $<$vector$>$}\newline
+{\ttfamily \#include $<$iostream$>$}\newline
+Include dependency graph for card.\+hpp\+:
+% FIG 0
+This graph shows which files directly or indirectly include this file\+:
+% FIG 1
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{classCard}{Card}}
+\item 
+class \mbox{\hyperlink{classDeck}{Deck}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+\mbox{\hyperlink{classCard}{Card}} class. 
+
+\begin{DoxyAuthor}{Author}
+Carlos Jiménez Encinas 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+30/08/2022 
+\end{DoxyDate}
