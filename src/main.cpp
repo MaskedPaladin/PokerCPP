@@ -1,6 +1,6 @@
-#include "../include/card.hpp"
-#include "../include/player.hpp"
-#include "../include/event.hpp"
+#include "../include/GameObjects.hpp"
+#include "../include/Entities.hpp"
+#include "../include/GameEnvironments.hpp"
 
 int main()
 {
