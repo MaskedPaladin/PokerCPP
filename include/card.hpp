@@ -1,8 +1,8 @@
 /** 
- *  @file   card.hpp 
- *  @brief  Card class 
- *  @author Carlos Jiménez 
- *  @date   30/08/2022
+@file   card.hpp 
+@brief  Card class 
+@author Carlos Jiménez 
+@date   30/08/2022
  ***********************************************/
 
 #pragma once
